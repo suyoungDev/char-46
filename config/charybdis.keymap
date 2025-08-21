@@ -48,11 +48,11 @@
 
         NAV {
             bindings = <
-&kp F12          &kp F1          &kp F2           &kp F3             &kp F4           &kp F5    &kp F6                &kp F7  &kp F8  &kp F9  &kp F10          &kp F11
-&trans           &kp SCROLLLOCK  &kp PAUSE_BREAK  &kp UP             &kp EQUAL        &kp LBRC              &kp RBRC  &kp N7  &kp N8  &kp N9  &kp KP_PLUS      &trans
-&kp PRINTSCREEN  &kp INSERT      &kp LEFT         &kp DOWN           &kp RIGHT        &kp LBKT              &kp RBKT  &kp N4  &kp N5  &kp N6  &kp KP_MINUS     &kp KP_DIVIDE
-&trans           &kp DEL         &kp PG_UP        &kp CAPS           &kp PG_DN        &kp LPAR              &kp RPAR  &kp N1  &kp N2  &kp N3  &kp KP_MULTIPLY  &trans
-                 &trans          &trans           &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &trans    &kp KP_DOT            &kp N0          &mo 3
+&kp F12          &kp F1          &kp F2           &kp F3             &kp F4           &kp F5    &kp F6                &kp F7                         &kp F8                         &kp F9                     &kp F10                          &kp F11
+&trans           &kp SCROLLLOCK  &kp PAUSE_BREAK  &trans             &kp EQUAL        &kp LBRC              &kp RBRC  &kp KP_PLUS                    &kp KP_MINUS                   &kp KP_MULTIPLY            &trans                           &trans
+&kp PRINTSCREEN  &kp INSERT      &trans           &trans             &trans           &kp LBKT              &kp RBKT  &mt LA(LEFT_ARROW) LEFT_ARROW  &mt LA(DOWN_ARROW) DOWN_ARROW  &mt LA(UP_ARROW) UP_ARROW  &mt LA(RIGHT_ARROW) RIGHT_ARROW  &kp KP_DIVIDE
+&trans           &kp DEL         &kp PG_UP        &kp CAPS           &kp PG_DN        &kp LPAR              &kp RPAR  &trans                         &trans                         &trans                     &trans                           &trans
+                 &trans          &trans           &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &trans    &kp KP_DOT            &trans                                                        &mo 3
             >;
         };
 

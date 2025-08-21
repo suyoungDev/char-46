@@ -41,7 +41,7 @@
 &mt TILDE GRAVE  &mt EXCLAMATION NUMBER_1  &mt N2 NUMBER_2  &mt HASH NUMBER_3  &mt DOLLAR NUMBER_4  &mt PERCENT N5  &mt CARET NUMBER_6         &mt AMPERSAND N7  &mt ASTERISK N8      &mt LEFT_PARENTHESIS N9  &mt RIGHT_PARENTHESIS N0  &mt UNDER MINUS
 &kp TAB          &kp Q                     &kp W            &kp E              &kp R                &kp T                               &kp Y  &kp U             &kp I                &kp O                    &kp P                     &mt PLUS EQUAL
 &kp CLCK         &mt LCTRL A               &mt LALT S       &mt LGUI D         &mt LSHIFT F         &kp G                               &kp H  &mt RSHIFT J      &mt RGUI K           &mt RALT L               &mt RCTRL SEMI            &mt DOUBLE_QUOTES SINGLE_QUOTE
-&kp LSHIFT       &kp Z                     &kp X            &kp C              &kp V                &kp B                               &kp N  &kp M             &mt LESS_THAN COMMA  &mt GREATER_THAN DOT     &mt SLASH QUESTION        &kp ENTER
+&kp LSHIFT       &kp Z                     &kp X            &kp C              &kp V                &kp B                               &kp N  &kp M             &mt LESS_THAN COMMA  &mt GREATER_THAN DOT     &mt SLASH QUESTION        &mt LS(ENTER) RET
                  &lt 2 SPACE               &kp BACKSPACE    &kp LGUI           &lt 1 SPACE          &kp DEL         &kp ENTER                  &kp SPACE                              &lt 3 SPACE
             >;
         };
